@@ -19,7 +19,7 @@ export class GifsComponent implements OnInit, OnDestroy {
      });
   }
 
-  ngDestroy() {
+  ngOnDestroy() {
     this.subscription.unsubscribe();
   }
 
