@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
+# Author
+This app was created by Brian Ochieng and was to be used under an expresion other than an emoji,
+
+# Technologies used
+* Typescript
+* CSS
+* HTML
+* BOOSTRAP
+
+# SETUP INSTRUCTION
+* search button
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -25,3 +37,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Contact Information
+* FACEBOOK-yobra mpenda usafi
+* Twitter- @yobra61562
+# Lincence and copyright information
+* this application has been approved by brian to be used under any one but not on any harmfull aspect
